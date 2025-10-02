@@ -1,5 +1,5 @@
 
-![new_header](https://github.com/user-attachments/assets/e236b764-0ddc-42ff-a1f1-8fbb3d2e0e65)
+![new_header](https://github.com/geekinc/ElectricSheep/blob/main/assets/electric-sheep-banner.png?raw=true)
 
 
 
