@@ -1,0 +1,9 @@
+.env
+.venv
+venv/
+data/
+__pycache__/
+.flashrank_cache
+surf_new_backend.egg-info/
+podcasts/
+temp_audio/
